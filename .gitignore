@@ -1,0 +1,13 @@
+# Java build output
+bin/
+out/
+*.class
+
+# IDE metadata that should remain local when generated
+.settings/
+.factorypath
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
